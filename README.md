@@ -2,7 +2,7 @@
 
 
 # STEPS:
-# Clone the repository
+# Git clone the repository
 
 ``` bash
 Project repo: https://github.com/sm-ak-r33/Herbal-EcoDoc.git
