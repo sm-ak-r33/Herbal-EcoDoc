@@ -1,6 +1,7 @@
-# Doctor-GPT
-#Chatbot code, end to end
-#STEPS:
+# Herbal Doctor Chatbot code, end to end
+
+
+# STEPS:
 #Clone the repository
 
 ``` bash
