@@ -2,7 +2,7 @@
 
 
 # STEPS:
-#Clone the repository
+# Clone the repository
 
 ``` bash
 Project repo: https://github.com/sm-ak-r33/Doctor-GPT.git
