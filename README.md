@@ -1,4 +1,4 @@
-# Herbal Doctor Chatbot code, end to end
+# Herbal Doctor Chatbot code(end to end)
 
 
 # STEPS:
