@@ -5,7 +5,7 @@
 # Clone the repository
 
 ``` bash
-Project repo: https://github.com/sm-ak-r33/Doctor-GPT.git
+Project repo: [https://github.com/sm-ak-r33/Doctor-GPT.git](https://github.com/sm-ak-r33/Herbal-EcoDoc.git)
 ```
 
 ```bash 
