@@ -1,4 +1,5 @@
 # Herbal Doctor Chatbot code(end to end)
+![ecodoc](https://github.com/user-attachments/assets/a08b7707-a0b0-4688-9d87-753cf750702c)
 
 
 # STEPS:
