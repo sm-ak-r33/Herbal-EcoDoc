@@ -1,6 +1,6 @@
 # Herbal Doctor Chatbot code(end to end)
-![ecodoc](https://github.com/user-attachments/assets/a08b7707-a0b0-4688-9d87-753cf750702c)
 Herbal-EcoDoc is an AI assistant that assists you in treating common diseases with homemade remedies. It provides you a recipe with what you can make your own medicine at home. 
+![ecodoc](https://github.com/user-attachments/assets/a08b7707-a0b0-4688-9d87-753cf750702c)
 
 
 # STEPS:
