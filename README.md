@@ -8,15 +8,21 @@
 ``` bash
 Project repo: https://github.com/sm-ak-r33/Herbal-EcoDoc.git
 ```
-
+# Create an environment
 ```bash 
-conda create -n Doctor-GPT python=3.10 -y
+conda create -n HerbalDoc python=3.10 -y
 ```
 
 ```bash
-conda activate Doctor-GPT
+conda activate HerbalDoc
 ```
 
+# Install the requirements
 ```bash
 pip install -r requirements.txt 
+``` 
+
+# Run locally 
+```bash
+python app.py
 ``` 
