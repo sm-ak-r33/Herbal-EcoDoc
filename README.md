@@ -28,4 +28,25 @@ pip install -r requirements.txt
 # Run locally 
 ```bash
 python app.py
+```
+Runs on localhost:8080
+
+# CI/CD on AWS EC2 
+```bash
+sudo apt-get update -y
 ``` 
+```bash
+sudo apt-get upgrade
+```
+```bash
+curl -fsSL https://get.docker.com -o get-docker.sh
+```
+```bash
+sudo sh get-docker.sh
+```
+```bash
+sudo usermod -aG docker ubuntu
+```
+```bash
+newgrp docker
+```
