@@ -25,7 +25,7 @@ conda activate HerbalDoc
 pip install -r requirements.txt 
 ``` 
 
-# Run locally 
+# To Run locally 
 ```bash
 python app.py
 ```
@@ -51,7 +51,7 @@ sudo usermod -aG docker ubuntu
 newgrp docker
 ```
 
-Github Secrets:
+# Github Secrets:
 
 ```bash
 AWS_ACCESS_KEY_ID
