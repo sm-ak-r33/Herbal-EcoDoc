@@ -5,7 +5,7 @@ Herbal-EcoDoc is an AI assistant that assists you in treating common diseases wi
 ![ecodoc](https://github.com/user-attachments/assets/a08b7707-a0b0-4688-9d87-753cf750702c)
 
 
-# STEPS:
+# How to Run:
 # Git clone the repository
 
 ``` bash
